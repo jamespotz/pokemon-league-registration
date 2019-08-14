@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokemon-league-registration/static/css/main.05dbcfc1.chunk.css",
+    "main.js": "/pokemon-league-registration/static/js/main.eda7523a.chunk.js",
+    "main.js.map": "/pokemon-league-registration/static/js/main.eda7523a.chunk.js.map",
+    "runtime~main.js": "/pokemon-league-registration/static/js/runtime~main.cfa55a75.js",
+    "runtime~main.js.map": "/pokemon-league-registration/static/js/runtime~main.cfa55a75.js.map",
+    "static/js/2.24d0221b.chunk.js": "/pokemon-league-registration/static/js/2.24d0221b.chunk.js",
+    "static/js/2.24d0221b.chunk.js.map": "/pokemon-league-registration/static/js/2.24d0221b.chunk.js.map",
+    "index.html": "/pokemon-league-registration/index.html",
+    "precache-manifest.eb80654c9581080525a04aad6f723199.js": "/pokemon-league-registration/precache-manifest.eb80654c9581080525a04aad6f723199.js",
+    "service-worker.js": "/pokemon-league-registration/service-worker.js",
+    "static/css/main.05dbcfc1.chunk.css.map": "/pokemon-league-registration/static/css/main.05dbcfc1.chunk.css.map"
+  }
+}
